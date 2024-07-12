@@ -16,7 +16,7 @@ Hello! I'm Daffer Queque, an experienced (3+ years) Robotics Software Engineer a
 **Description:** Led Level 3 autonomous navigation in GPS-denied underground galleries using RGB, thermal cameras, and 3D LIDAR with ROS and C++. Implemented YOLO V8 and YOLO NAS on Jetson Orin AGX, achieving 0.91 mAP and 30 FPS. Showcased the system at PERUMIN 2023, an international mining fair. [Videos](https://youtube.com/playlist?list=PLSkv-kp1fWR9WA9yLv0nKHr0DcV82yVEo&si=Jv890t6X3l6c3mMi)
 
 ## 🛠️ Skills
-- **Programming Languages:** Python, C++, Java.
+- **Programming Languages:** Python, C++.
 - **Robotics Frameworks:** ROS 1/2 (Robot Operating System), Gazebo, NAV1/2, Isaac Sim Nvidia.
 - **AI Frameworks:** Pytorch, Tensorflow.
 - **Tools and Technologies:** Git, Docker, Jupyter.
