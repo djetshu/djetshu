@@ -13,7 +13,7 @@ Hello! I'm Daffer Queque, an experienced (3+ years) Robotics Software Engineer a
 ### Project 2: Wireless All-Terrain Robot for Autonomous Tunnel Inspection and Digitization
 ![Project 2 GIF](autonomous_robot.gif)
 
-**Description:** Led Level 3 autonomous navigation in GPS-denied underground galleries using RGB, thermal cameras, and 3D LIDAR with ROS and C++. Implemented YOLO V8 and YOLO NAS on Jetson Orin AGX, achieving 0.91 mAP and 30 FPS. Showcased the system at PERUMIN 2023, an international mining fair.
+**Description:** Led Level 3 autonomous navigation in GPS-denied underground galleries using RGB, thermal cameras, and 3D LIDAR with ROS and C++. Implemented YOLO V8 and YOLO NAS on Jetson Orin AGX, achieving 0.91 mAP and 30 FPS. Showcased the system at PERUMIN 2023, an international mining fair. [Videos](https://youtube.com/playlist?list=PLSkv-kp1fWR9WA9yLv0nKHr0DcV82yVEo&si=Jv890t6X3l6c3mMi)
 
 ## 🛠️ Skills
 - **Programming Languages:** Python, C++, Java.
